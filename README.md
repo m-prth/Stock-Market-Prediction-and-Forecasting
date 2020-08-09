@@ -178,7 +178,8 @@ Epoch 99/100  loss: 3.2889e-04 - val_loss: 0.0012
 Epoch 100/100 loss: 3.3640e-04 - val_loss: 9.9860e-04
 ```
 * The prediction of our model on the test case was quite similar as the closing numbers were in the real world senario.
-* The following graph shows that the orange part is the training data and green part is the tested prediction. It is on the blue line which is the original dataset.
+* The following graph shows that the orange part is the training data and green part is the tested prediction. It is on the blue line which is the original dataset.  
+
 ![Predicted Numbers](predicted.svg)
 * So from this we can conclude that the prediction done by the model was pretty accurate.
 
